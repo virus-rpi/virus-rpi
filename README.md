@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virus-rpi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/virus-rpi/langs?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/virus-rpi/langs?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=virus-rpi&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
