@@ -1,10 +1,14 @@
 # virusrpi
 
-[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api?username=virus-rpi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api?username=virus-rpi&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/virus-rpi/langs?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
+[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api/top-langs/?username=virus-rpi&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-rose-two-55.vercel.app/api/wakatime/?username=virusrpi&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=virus-rpi&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+Wakatime stats are not compleatly accurate because I don't always have it running. 
 
 ## Languages:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
